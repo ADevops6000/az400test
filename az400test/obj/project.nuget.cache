@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4eqP6rTIPXeyZSVi1sqRqq+P55hL7twWahdBhindsv19b5KAdiX3V7x7liFH38h+o0qv2SUdqj2i/1yu27gLw==",
+  "success": true,
+  "projectFilePath": "/Users/fajasin/projects/az400test/az400test/az400test.csproj",
+  "expectedPackageFiles": [
+    "/Users/fajasin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/fajasin/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/fajasin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
